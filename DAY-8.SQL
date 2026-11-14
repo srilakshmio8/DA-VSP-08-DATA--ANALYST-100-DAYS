@@ -1,3 +1,5 @@
+Operators Part-1[Artithmetic,Relational,Logical Operators with examples] Day-8
+
 USE DA8;
 SHOW TABLES;
 DROP TABLE PRODUCTS;
