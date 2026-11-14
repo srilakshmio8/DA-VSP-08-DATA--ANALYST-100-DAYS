@@ -1,3 +1,5 @@
+DDL[ALTER,DROP,RENAME] Commands with examples of company_staff table
+
 USE DA8;
 
 SHOW TABLES;
