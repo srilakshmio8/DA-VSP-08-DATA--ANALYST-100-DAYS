@@ -1,3 +1,4 @@
+Constraints[Not Null,Unique,Primary key,Foreign Key,Composite key, Default,Check Constraints]with examples 
 -- contraints
 -- not null : it doesn't allow null values. but it allows duplicate values.
 -- unique : it doesn't allow duplicate values but null values can be duplicate.
