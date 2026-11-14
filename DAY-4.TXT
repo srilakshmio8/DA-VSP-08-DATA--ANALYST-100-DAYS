@@ -1,3 +1,5 @@
+DDL[ALTER,DROP,RENAME] Commands with examples of company_staff table
+
 mysql> USE PFS8;
 Database changed
 mysql> CREATE TABLE EMPLOYEES(
