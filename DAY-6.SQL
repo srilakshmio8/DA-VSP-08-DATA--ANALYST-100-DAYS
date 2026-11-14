@@ -1,3 +1,5 @@
+Operators Part-1 Assignment Questions[Arithmetic,Relational,Logical]
+
 USE DA8;
 CREATE TABLE PRODUCTS(
      PID INT PRIMARY KEY,
