@@ -1,3 +1,5 @@
+Constraints[Not Null,Unique,Primary key,Foreign Key,Composite key, Default,Check Constraints]with examples Day-7
+
 ₹Constraints in MySQL
 What are Constraints?
 Constraints are rules applied to table columns in MySQL to ensure that only valid and accurate data is stored in the database.
