@@ -1,3 +1,5 @@
+DML Commands[INSERT,UPDATE,DELETE]Diff between Drop vs Delete vs Truncate Day-5
+
 DML - Data Manipulation Language
 DML commands are used to insert, update, delete, and manage data stored inside existing database tables. Unlike DDL, DML changes can typically be rolled back if not committed.
 Command
