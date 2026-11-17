@@ -1,4 +1,4 @@
-Operators Part-1[Artithmetic,Relational,Logical Operators with examples] Day-8
+Operators Part-1[Artithmetic,Relational,Logical Operators with examples] 
 
 USE DA8;
 SHOW TABLES;
