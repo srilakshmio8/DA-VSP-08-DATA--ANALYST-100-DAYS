@@ -1,3 +1,5 @@
+Operators part-2[Null Operators,Between,IN,CASE,Like]operators with examples 
+
 NULL Operator
 What are NULL Operators?
 NULL Operators are used to check whether a column contains a NULL value (missing or unknown data).
