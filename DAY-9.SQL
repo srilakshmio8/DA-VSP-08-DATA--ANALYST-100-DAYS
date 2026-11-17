@@ -1,3 +1,5 @@
+Operators part-2[Null Operators,Between,IN,CASE,Like]operators with examples 
+
 USE DA8;
 CREATE TABLE Projects (
  id INT,
