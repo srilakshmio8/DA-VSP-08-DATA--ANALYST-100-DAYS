@@ -1,3 +1,5 @@
+Set Operators and Joins[Inner join,Left Join,Right Join,Full Join,Cross oin,Self Join] Introduction
+    
 use DA8;
 SHOW TABLES;
 DROP TABLE STUDENTS;
