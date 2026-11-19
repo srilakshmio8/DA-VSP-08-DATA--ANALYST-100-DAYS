@@ -1,3 +1,5 @@
+Set Operators and Joins[Inner join,Left Join,Right Join,Full Join,Cross oin,Self Join] Introduction
+
 USE DA8;
 SHOW TABLES;
 SELECT*FROM EMPLOYEES;
