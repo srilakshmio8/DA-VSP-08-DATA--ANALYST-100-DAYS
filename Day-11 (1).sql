@@ -1,3 +1,4 @@
+Numeric Functions,String Function,Date and Time Functions with examples
 -- numeric and String Functions
 SELECT ABS(-100)AS ABSOLUTE_VALUE;
 SELECT CEIL(12.34)AS ROUNDED_UP;
